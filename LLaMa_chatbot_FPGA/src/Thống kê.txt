@@ -1,0 +1,6 @@
+Tổng: 100 câu
+Số câu có nội dung nằm trong dataset: 63 câu
+Không có trong dataset: 37 câu
+Truy vấn chính xác: 61 câu
+Sai: 2 câu
+Tỉ lệ chính xác: 61/63 - 96,83%
