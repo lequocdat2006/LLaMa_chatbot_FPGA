@@ -1,5 +1,5 @@
 import os
-os.environ["JAVA_HOME"] = r"C:\Program Files\Java\jre1.8.0_501"
+os.environ["JAVA_HOME"] = r"C:\Program Files\Java\jre1.8.0_503" # Chỉnh lại đường dẫn môi trường java cho đúng trên máy
 VNCORENLP_ABS_PATH = os.path.abspath('./vncorenlp')
 DATASET_ABS_PATH = os.path.abspath('./vietnamese_history_dataset')
 VIETNAMESE_BI_ENCODER_ABS_PATH = os.path.abspath('./vietnamese_bi_encoder')
